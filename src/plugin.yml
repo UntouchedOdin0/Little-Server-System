@@ -21,7 +21,7 @@ commands:
    fly:
      description: Set your Flight mode
    cc:
-     description: Set your Flight mode
+     description: Clear the chat
      aliases: chatclear
    gm:
      description: Set your Gamemode
